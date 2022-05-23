@@ -6,7 +6,7 @@
 
 ## Analizė ##
 
-Atlikta spartos/efektyvumo analizė orginalusis std::vector vs custom Vector. 
+Atlikta spartos/efektyvumo analizė orginalusis std::vector vs custom Vector. Atitinkamai pavaizduotas ir persskirstymų skaičius.
 
 ![Vector3](https://user-images.githubusercontent.com/92160605/169841464-e0b6617e-1ce6-4ba5-8cd2-9f4642429db3.png)
 
